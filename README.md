@@ -1,37 +1,146 @@
 <h1 align="center">Hi 👋, I'm kartik bajaj</h1>
 <h3 align="center">Data Science • Machine Learning • AI Engineering</h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kbxai&label=Profile%20views&color=0e75b6&style=flat" alt="kbxai" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbxai" alt="kbxai" /></a> </p>
+## Profile
+<div align="center">
+<table>
+<tr>
+<td width="48%">
 
-- 🔭 I’m currently working on **Building ML pipelines, AI automation apps, and data engineering projects.**
+### About Me
+I work in machine learning, data science, AI automation, and backend engineering.  
+I build full end-to-end systems, ML workflows, data pipelines, and LLM-driven tools.
 
-- 🌱 I’m currently learning **FastAPI, advanced feature engineering, model optimization, and system design.**
+</td>
+<td width="48%">
 
-- 👯 I’m looking to collaborate on **Machine Learning, AI tools, automation workflows, backend systems.**
+### Contact
+Email: **kartikbajaj.me@gmail.com**  
+GitHub: **github.com/kbxai**  
+LinkedIn: **linkedin.com/in/kartik-bajaj**
 
-- 🤝 I’m looking for help with **Large-scale ML deployment and advanced LLM integrations.**
+</td>
+</tr>
+</table>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kbxai](https://github.com/kbxai)
+---
 
-- 💬 Ask me about **Machine Learning, LLM automation, Flask/FastAPI, Python workflows.**
+## Skills
 
-- 📫 How to reach me **kartikbajaj.me@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I like building end-to-end systems more than just training models.**
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### Machine Learning
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</td>
+
+<td align="center" width="33%">
+
+### Data Analysis
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logos/matplotlib_logo.svg" width="70"/>
+<img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### Backend
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### Development Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+### ML Pipeline Automation  
+A modular system for end-to-end ML workflows including data prep, feature engineering, model training, evaluation, and deployment automation.
+
+</td>
+
+<td width="48%" valign="top">
+
+### AI Code Generation Agent  
+A FastAPI-based agent that converts natural language task descriptions into deployable applications using LLMs.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="48%" valign="top">
+
+### Hotel Cancellation Prediction  
+A classification model with engineered features and XGBoost/CatBoost achieving strong ROC-AUC performance.
+
+</td>
+
+<td width="48%" valign="top">
+
+### House Price Prediction (Kaggle)  
+An ML regression system using cross-validated model tuning and ensemble approaches.
+
+</td>
+
+</tr>
+
+</table>
+</div>
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kbxai&show_icons=true&locale=en" height="160"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kbxai&show_icons=true&locale=en" alt="kbxai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbxai&" alt="kbxai" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbxai" height="160"/>
+</p>

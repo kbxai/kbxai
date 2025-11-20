@@ -33,19 +33,22 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 
 ## Skills
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 
 ### Programming
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
 ### Frontend
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
@@ -53,10 +56,11 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 </p>
 
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 
 ### Machine Learning
-<p>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
@@ -64,23 +68,23 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 </p>
 
 ### Databases
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55"/>
 </p>
 
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" valign="top" align="center">
 
 ### Backend Frameworks
-<p>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50"/>
+<p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50"/>
 </p>
 
 ### DevOps & Tools
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
@@ -89,8 +93,12 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 </p>
 
 </td>
+
 </tr>
 </table>
+
+</div>
+
 ## Featured Projects
 
 <div align="center">

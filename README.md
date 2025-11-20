@@ -43,9 +43,6 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 ### Machine Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-
 </td>
 
 <td align="center" width="33%">
@@ -62,7 +59,7 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 
 ### Backend
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50"/>
+<img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 

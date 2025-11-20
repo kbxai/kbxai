@@ -74,7 +74,7 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 
 ### Development Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-svg-download-png-2284999.png?f=webp" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
 

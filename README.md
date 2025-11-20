@@ -50,7 +50,7 @@ LinkedIn: **linkedin.com/in/kartik-bajaj**
 ### Data Analysis
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="[https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logos/matplotlib_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png)" width="70"/>
+<img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logos/matplotlib_logo.svg" width="70"/>
 <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="60"/>
 
 </td>

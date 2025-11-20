@@ -14,8 +14,7 @@
 <td width="48%">
 
 ### About Me
-I work in machine learning, data science, AI automation, and backend engineering.  
-I build full end-to-end systems, ML workflows, data pipelines, and LLM-driven tools.
+I’m a student exploring machine learning, data science, AI automation, and backend engineering. I’m currently learning how to build end-to-end systems, ML pipelines, and LLM-powered tools.
 
 </td>
 <td width="48%">
